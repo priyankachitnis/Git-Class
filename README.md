@@ -1,2 +1,2 @@
-# Git-Class 1
+# Git-Class 
 Today's Class For Git
